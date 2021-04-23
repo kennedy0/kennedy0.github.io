@@ -1,6 +1,7 @@
 | | Title | Description | Link |
 | --- | :---: | :--- | --- |
 | <img src="./img/HedgeMazeIcon.png" width="128"> | [**Hedge Maze**](./games/HedgeMaze.md) | Solve a series of mazes in a relaxing world themed around nature and seasons. | [Windows](https://github.com/kennedy0/kennedy0.github.io/releases/download/HedgeMaze-v1.0.0/HedgeMaze_Win.zip) |
+| <img src="./img/PostalSlimeIcon.png" width="128"> | **Postal Slime** | Defend the slime mailman from an onslaught of adventurers as he travels from town to town. | [GitHub](https://github.com/kennedy0/PostalSlime) |
 | <img src="./img/LudumDareIcon.png" width="128"> | **Ludum Dare Archive** | A collection of old games that I made for Ludum Dare. | [GitHub](https://github.com/kennedy0/LudumDareArchive) |
 
 ---
