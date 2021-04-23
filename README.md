@@ -1,3 +1,1 @@
-# kennedy0.github.io
-
-Repo for github pages
+[kennedy0.github.io](https://kennedy0.github.io/)
