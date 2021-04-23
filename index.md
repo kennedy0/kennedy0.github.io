@@ -1,9 +1,3 @@
-# game dev
-andrew kennedy
-
-
-# games
-
 hedge maze
 <img src="./img/HedgeMaze.png" width="64" height="64">
 
