@@ -1,6 +1,6 @@
 | | Title | Description | Link |
 | --- | :---: | :--- | --- |
-| ![](./img/HedgeMaze.png?s=64) | Hedge Maze | Solve a series of mazes in a relaxing world themed around nature and seasons. | [Windows](https://github.com/kennedy0/kennedy0.github.io/releases/download/HedgeMaze-v1.0.0/HedgeMaze_Win.zip) |
+| ![](./img/HedgeMaze.png?s=64){:height="64px" width="64px"} | Hedge Maze | Solve a series of mazes in a relaxing world themed around nature and seasons. | [Windows](https://github.com/kennedy0/kennedy0.github.io/releases/download/HedgeMaze-v1.0.0/HedgeMaze_Win.zip) |
 
 -----------------------
 ## Ludum Dare Archive
